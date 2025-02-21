@@ -1,2 +1,2 @@
 # ZenEdge
-A Ai art generated contract with NFTs
+ZenEdge is a groundbreaking NFT platform that mints and showcases AI-generated artwork, blending serene minimalism with futuristic flair. Built on a custom Solidity smart contract, ZenEdge creates unique digital collectibles with dynamic metadata, presented in a striking dark black and glowing white aesthetic. The platform embodies the balance of Zen-inspired calm and the sharp edge of artificial intelligence, offering collectors a visually stunning and technologically advanced experience.
