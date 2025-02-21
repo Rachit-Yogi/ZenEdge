@@ -1,6 +1,6 @@
-# Zenedge - AI-Generated Art NFT
+# ZenEdge - AI-Generated Art NFT
 
-Zenedge is a smart contract for minting NFTs of AI-generated artwork. Each NFT is unique and comes with dynamic metadata, including a name, description, and image URL. The contract is written in Solidity and is designed to be simple, self-contained, and easy to use.
+ZenEdge is a smart contract for minting NFTs of AI-generated artwork. Each NFT is unique and comes with dynamic metadata, including a name, description, and image URL. The contract is written in Solidity and is designed to be simple, self-contained, and easy to use.
 
 ---
 
